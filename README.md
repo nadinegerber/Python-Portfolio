@@ -34,7 +34,7 @@ The mark of a great Product Designer—is prioritizing "Usability" over "Aesthet
 
 ### [📁 finance_logic](./finance_logic)
 *Tools for tracking investments and calculating independence.*
-* `currency_calc.py` - USD, EUR, GBP to ZAR converter 
+* `currency_calc.py` - USD, EUR, GBP, ZAR currency converter 
 * `bitcoin_calc.py`
 <br>
 
