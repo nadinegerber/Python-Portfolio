@@ -27,23 +27,23 @@ The mark of a great Product Designer—is prioritizing "Usability" over "Aesthet
 
 ## 📂 Repository Structure
 
-### [📁 cycling_tools](./cycling_tools)
+### [📁 cycling-tools](./cycling_tools)
 *Performance and maintenance logic for cycling enthusiasts.*
 * `distance_calc.py` - Route and effort metrics
 <br>
 
-### [📁 finance_logic](./finance_logic)
+### [📁 finance-logic](./finance_logic)
 *Tools for tracking investments and calculating independence.*
 * `currency_calc.py` - USD, EUR, GBP, ZAR currency converter 
 * `bitcoin_calc.py`
 <br>
 
-### [📁 health_data](./health_data)
+### [📁 health-data](./health_data)
 *Calculators for recovery and biological optimization.*
 * `fueling_logic.py` - Precision nutrition for endurance
 <br>
 
-### [📁 python_learning_scripts](./python_learning_scripts)
+### [📁 python-learning-scripts](./python_learning_scripts)
 *A collection of foundational exercises, mini-projects and small Python utilities for logic and calculation.*
 * `password_generator.py`
 
