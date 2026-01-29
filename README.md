@@ -11,6 +11,8 @@ This repository serves as a centralized log for my journey into **Full Stack AI 
 
 After an initial start in 2012 with HTML/CSS, I am "re-booting" my technical path in 2026 with a focus on Python, logical systems, and autonomous development. 
 
+The mark of a great Product Designer—is prioritizing "Usability" over "Aesthetics" because a design which causes users to hunt for features or functionality to proceed, will cause frustration and vacation of the application. Consistency and ease of use always win.
+
 <br>
 <br>
 
@@ -32,7 +34,7 @@ After an initial start in 2012 with HTML/CSS, I am "re-booting" my technical pat
 
 ### [📁 finance_logic](./finance_logic)
 *Tools for tracking investments and calculating independence.*
-* `currency_calc.py` - USD to ZAR tech investment tracker
+* `currency_calc.py` - USD, EUR, GBP to ZAR converter 
 * `bitcoin_calc.py`
 <br>
 
