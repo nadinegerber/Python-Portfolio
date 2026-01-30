@@ -1,20 +1,14 @@
 # Python-Portfolio
-
 <br>
 
 ## 🚀 Overview
-Welcome to my development journey. 
+Hi, I’m Nadine! 👋 🇿🇦
 
-I am an aspiring Full Stack AI Engineer (self-taught) focused on bridging the gap between local logic and cloud-based AI solutions. 
+I am an aspiring Full Stack AI Engineer (self-taught) focused on bridging the gap between local logic and cloud-based AI solutions.
 
-This repository serves as a centralized log for my journey into **Full Stack AI Engineering** and as a living library of all my technical growth, from foundational Python scripts to complex AI integrations. 
+This repository serves as a centralized log for my journey into **Full Stack AI Engineering**. 
 
-After an initial start in 2012 with HTML/CSS, I am "re-booting" my technical path in 2026 with a focus on Python, logical systems, and autonomous development. 
-
-The mark of a great Product Designer—is prioritizing "Usability" over "Aesthetics" because a design which causes users to hunt for features or functionality to proceed, will cause frustration and vacation of the application. Consistency and ease of use always win.
-
-The mark of a great developer: asking "Why?" before asking "How?" The answer depends entirely on the Business Goal. One could build a tool to serve two completely different purposes, or even a mix of both.
-
+It also serves as a living library of all my technical growth, from foundational Python scripts to complex AI integrations. 
 <br>
 <br>
 
